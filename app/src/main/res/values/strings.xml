@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">job3_demo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <string name="i_already_have_an_account_login">I already have an account! Login?</string>
+    <string name="title_activity_maps12" />
+</resources>
